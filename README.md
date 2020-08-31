@@ -94,4 +94,3 @@ Jetpack Compose (alpha) を使って Hello World を表示してみましたが�
 
 # 参考文献
 - [Jetpack Compose の基本](https://developer.android.com/jetpack/compose/tutorial?return=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23article-https%3A%2F%2Fdeveloper.android.com%2Fjetpack%2Fcompose%2Ftutorial)
-- 
